@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to backend 👋</h1>
+<h1 align="center">Welcome to Mern-Social 👋</h1>
 <p>
   <a href="https://www.npmjs.com/package/backend" target="_blank">
     <img alt="Version" src="https://img.shields.io/npm/v/backend.svg">
