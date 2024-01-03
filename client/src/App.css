@@ -405,6 +405,10 @@ button {
   text-align: center;
 }
 
+.alert-btn-laett{
+  background-color: #17a2b8;
+}
+
 .profile-exp {
   grid-area: exp;
 }
